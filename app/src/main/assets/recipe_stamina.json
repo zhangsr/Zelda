@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1101",
+        "image": "a84",
+        "name": "Hearty copious seafood skewers",
+        "price": "180",
+        "heartRecovery": "32",
+        "staminaRecovery": "12",
+        "materialList": "30,30,30,30"
+    },
+    {
+        "id": "1102",
+        "image": "a84",
+        "name": "Hearty copious seafood skewers",
+        "price": "180",
+        "heartRecovery": "32",
+        "staminaRecovery": "9",
+        "materialList": "30,30,30,16"
+    },
+    {
+        "id": "1103",
+        "image": "a84",
+        "name": "Hearty copious seafood skewers",
+        "price": "150",
+        "heartRecovery": "32",
+        "staminaRecovery": "9",
+        "materialList": "30,30,30,15"
+    },
+    {
+        "id": "1104",
+        "image": "a84",
+        "name": "Hearty copious seafood skewers",
+        "price": "120",
+        "heartRecovery": "32",
+        "staminaRecovery": "6",
+        "materialList": "30,30,15,15"
+    },
+    {
+        "id": "1105",
+        "image": "a84",
+        "name": "Hearty copious seafood skewers",
+        "price": "150",
+        "heartRecovery": "32",
+        "staminaRecovery": "6",
+        "materialList": "30,30,16,15"
+    },
+    {
+        "id": "1106",
+        "image": "a84",
+        "name": "Hearty copious seafood skewers",
+        "price": "190",
+        "heartRecovery": "32",
+        "staminaRecovery": "6",
+        "materialList": "30,30,16,16"
+    },
+    {
+        "id": "1107",
+        "image": "a94",
+        "name": "Energizing glazed fish",
+        "price": "50",
+        "heartRecovery": "24",
+        "staminaRecovery": "5",
+        "materialList": "30,34"
+    },
+    {
+        "id": "1108",
+        "image": "a86",
+        "name": "Hearty copious mushroom skewers",
+        "price": "50",
+        "heartRecovery": "16",
+        "staminaRecovery": "7",
+        "materialList": "26,26,26,26"
+    },
+    {
+        "id": "1109",
+        "image": "a86",
+        "name": "Hearty copious mushroom skewers",
+        "price": "50",
+        "heartRecovery": "16",
+        "staminaRecovery": "5",
+        "materialList": "26,26,26,14"
+    },
+    {
+        "id": "1110",
+        "image": "fish_and_mushroom_skewer",
+        "name": "Energizing fish and mushroom skewer",
+        "price": "50",
+        "heartRecovery": "12",
+        "staminaRecovery": "5",
+        "materialList": "26,30"
+    }
+]

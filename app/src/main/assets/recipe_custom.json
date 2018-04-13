@@ -1,0 +1,18 @@
+[
+    {
+        "id": "2001",
+        "image": "simmered_fruit",
+        "name": "炖水果",
+        "price": "?",
+        "heartRecovery": "4",
+        "materialList": "6"
+    },
+    {
+        "id": "2002",
+        "image": "simmered_fruit",
+        "name": "炖水果",
+        "price": "?",
+        "heartRecovery": "20",
+        "materialList": "6,6,6,6,6"
+    }
+]

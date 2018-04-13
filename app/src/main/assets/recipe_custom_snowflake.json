@@ -1,0 +1,11 @@
+[
+    {
+        "id": "2101",
+        "image": "meat_and_seafood_fry",
+        "name": "火辣海陆煎烤",
+        "price": "?",
+        "heartRecovery": "20",
+        "snowflakeTime": "210",
+        "materialList": "45,52,15"
+    }
+]
